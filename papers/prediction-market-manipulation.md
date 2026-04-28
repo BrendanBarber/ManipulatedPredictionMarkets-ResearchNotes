@@ -45,6 +45,23 @@ Related Articles:
 - [Stock manipulation modeling for comparison](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863876)
 - [Friedman self-correction mechanism, in theory](https://web.stanford.edu/~avner/Greif_228_2005/Friedman%201953%20Methodology.pdf) Note that this widley agreed in economics to be "correct" in theory, but that the market conditions that must exist for it are definitly being constantly violated in reality.
 
+# "Can Manipulators Mislead Market Observers?" (2008)
+[Link](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1147&context=esi_working_papers)
+Authors: Ryan Oprea, David Porter, Chris Hibbert, Robin Handson, Dorina Tila
+
+**Main research question:**
+
+*Can prediction markets be manipulated in a way that misleads forcasters?*
+
+**Main takeaway:**
+
+*In a market with a clear distinction between experts with private information trading, and third-party forcasters making predictions, manipulation is very difficult.*
+
+This 2008 paper leads into the next 2013 paper. It is an experimental example of Friedman's self-correction mechanism, which works due to it having the controlled conditions (well-defined fundamental value, 
+independent private signals among informed traders, and sufficient informed participation) necessary to correct manipulation.
+
+And by referencing the Friedman 1953 paper I am referencing the idea that irrational or destabilizing traders are self-eliminating, because by pushing against rationality they will lose money.
+
 ## "Affecting policy by manipulating prediction markets: Experimental evidence" (2013)
 [Link](https://www.sciencedirect.com/science/article/pii/S0167268112002223)
 Authors: Cary Deck, Shengle Lin, David Porter 
@@ -72,3 +89,4 @@ Related Articles:
 - [Using Kyle's Lambda and VPIN](https://link.springer.com/article/10.1007/s10796-015-9617-7)
 - [Kyle's Lambda](https://www.econometricsociety.org/publications/econometrica/1985/11/01/continuous-auctions-and-insider-trading)
 - [VPIN](https://academic.oup.com/rfs/article/25/5/1457/1569929?guestAccessKey=)
+
