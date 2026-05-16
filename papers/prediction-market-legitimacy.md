@@ -51,3 +51,8 @@ Authors: Matthew Wein
 Authors: David M. Rothschild, Rajiv Sethi
 
 *Goes over how they found evidence of a trader in 2012 betting on Mitt Romney influencing the odds to make it look like he had a better chance, likely without the intention of winning, but rather to try and get good press.*
+
+
+## "Markets vs. polls as election predictors: An historical assessment" (2012)
+[Link](https://www.sciencedirect.com/science/article/pii/S0261379412000467)
+Authors: Robert S. Erikson, Christopher Wlezien

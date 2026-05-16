@@ -6,7 +6,7 @@ This sociotechnical-focused paper looks at the inaccuracies and flaws of modern 
 
 My goal, and why this matters: *Rohanifar et al. identify the laundering process qualitatively; I formally model that mechanism by which one specific kind of dirty input gets converted into a clean looking signal, and I focus on the actual cost and persistence of that conversion.*
 
-**Draft Research Question:** *How do the cost and persistence of prediction market manipulation change when a manipulating agent can also expend resources to influence the public opinion signal that affects other agents?*
+**Draft Research Question:** *How does the cost and persistence of prediction market manipulation change when a manipulating agent can also expend resources to influence the public opinion signal that affects other agents?*
 
 *Notes on this research question:*
 1. Can a combined manipulator (direct manipulation and misinformation/disinformation) achieve a more persistent change for a lower cost?
